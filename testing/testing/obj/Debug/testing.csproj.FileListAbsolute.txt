@@ -1,0 +1,7 @@
+C:\Users\jensh\source\repos\testing\testing\bin\Debug\testing.exe.config
+C:\Users\jensh\source\repos\testing\testing\bin\Debug\testing.exe
+C:\Users\jensh\source\repos\testing\testing\bin\Debug\testing.pdb
+C:\Users\jensh\source\repos\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\jensh\source\repos\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\jensh\source\repos\testing\testing\obj\Debug\testing.exe
+C:\Users\jensh\source\repos\testing\testing\obj\Debug\testing.pdb
